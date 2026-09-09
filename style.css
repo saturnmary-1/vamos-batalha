@@ -1,5 +1,6 @@
 body{
     margin:0;
+    padding: 0;
     background:repeating-linear-gradient(
         to right,
         #db8291 0px,
@@ -7,4 +8,6 @@ body{
         #720002 20px,
         #720002 40px
     );
+    min-height: 100vh;
 }
+
