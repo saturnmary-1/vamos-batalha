@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    background:repeating-linear-gradient(
+        to right,
+        #db8291 0px,
+        #db8291 20px,
+        #720002 20px,
+        #720002 40px
+    );
+}
