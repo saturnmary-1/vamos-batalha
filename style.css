@@ -54,6 +54,12 @@ nav span {
     width: 20px;
     padding: 6px;
 
+}
 
-
+main {
+    background-color: #B8DDE0;
+    width: 80%;
+    height: auto;
+    padding: 1em;
+    align-content: center;
 }
