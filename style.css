@@ -70,6 +70,7 @@ main {
     align-items: center;
     min-height: 80vh;
     margin-top: -25px;
+    width: auto;
 }
 
 .caixa {
