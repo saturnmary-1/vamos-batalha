@@ -13,7 +13,7 @@ body{
 }
 
 header {
-background-color: #9d182b;
+background-color: #fce7cc;
 padding: 10px 20px 10px 20px;
 text-align: center;
 margin: auto;
@@ -21,7 +21,17 @@ margin: auto;
 display: flex;
 justify-content: center;
 align-items: center;
-width: 70%;
+border: 3px solid #9d182b;
+border-radius: 8px;
+position: relative;
+}
+header::after {
+    content: "";
+    position: absolute;
+    inset: 12px;
+    border: 3px dotted #9d182b;
+    border-radius: 8px;
+    pointer-events: none;
 }
 
 nav a {
