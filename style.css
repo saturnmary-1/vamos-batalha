@@ -13,7 +13,7 @@ body{
 }
 
 header {
-background-color: #fd9bb7;
+background-color: #de5f7f;
 padding: 10px 20px 10px 20px;
 text-align: center;
 margin: auto;
@@ -22,7 +22,7 @@ height: 50%;
 display: flex;
 justify-content: center;
 align-items: center;
-border: 3px solid #9d182b;
+border: 3px solid #720307;
 border-radius: 8px;
 position: relative;
 }
