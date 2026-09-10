@@ -43,6 +43,7 @@ nav a {
 
      border:1px solid transparent;
     transition: 0.2s;
+    border-radius: 15px;
 
 
 }
