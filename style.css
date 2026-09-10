@@ -28,6 +28,7 @@ nav {
     align-items: center;
     gap: 8px;
     margin-top: 5px;
+    width: 30px;
 }
 
 nav a {
@@ -48,13 +49,11 @@ nav a {
 
 }
 
-nav a:hover {
-    background-color:#3f070b;
-    transform: rotate(-2deg);
-    text-decoration:underline;
-}
-
 nav span {
     color: #470e14;
+    width: 20px;
+    padding: 6px;
+
+
 
 }
