@@ -91,3 +91,10 @@ main {
     font-style: italic;
     color: #470e14;
 }
+
+.home p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#470e14;
+    font-size: 80px;
+}
