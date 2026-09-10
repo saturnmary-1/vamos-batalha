@@ -17,6 +17,7 @@ background-color: #fce7cc;
 padding: 10px 20px 10px 20px;
 text-align: center;
 margin: auto;
+height: 50%;
 
 display: flex;
 justify-content: center;
@@ -32,6 +33,7 @@ header::after {
     border: 3px dotted #9d182b;
     border-radius: 8px;
     pointer-events: none;
+    height: 50%;
 }
 
 nav a {
