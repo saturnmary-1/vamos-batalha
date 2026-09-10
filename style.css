@@ -9,6 +9,7 @@ body{
         #9d182b 60px
     );
     min-height: 100vh;
+    text-align: center;
 }
 
 header {
