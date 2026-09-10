@@ -60,6 +60,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 85%;
 
     background-color: #B8DDE0;
 }
