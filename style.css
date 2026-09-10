@@ -57,10 +57,14 @@ nav span {
 }
 
 main {
-    width: 85%;
-    height: 80%;
-    margin: 20px;
-    margin-top: 20px;
+ background-color: #B8DDE0;
 
-    background-color: #B8DDE0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+ text-align: center;
+
+ width: 80%;
+ height: 300px;
 }
