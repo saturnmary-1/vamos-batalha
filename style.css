@@ -39,4 +39,12 @@ nav a {
     border-radius: 20px;
     transition: 0.2s;
 }
+
+/*MOUSE*/
+
+nav a:hover {
+    background-color:#3f070b;
+    transform: rotate(-2deg);
+    text-decoration:underline;
+}
  
