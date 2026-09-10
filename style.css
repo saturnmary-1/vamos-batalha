@@ -4,6 +4,9 @@ body{
     background-color: #207078;
     min-height: 100vh;
     text-align: center;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
 }
 
 header {
