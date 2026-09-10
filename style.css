@@ -1,19 +1,12 @@
 body{
     margin:0;
     padding: 0;
-    background:repeating-linear-gradient(
-        to right,
-        #fd9bb7 0px,
-        #fd9bb7 30px,
-        #9d182b 30px,
-        #9d182b 60px
-    );
+    background-color: #207078;
     min-height: 100vh;
     text-align: center;
 }
 
 header {
-background-color: #de5f7f;
 padding: 10px 20px 10px 20px;
 text-align: center;
 margin: auto;
@@ -22,11 +15,15 @@ height: 50%;
 display: flex;
 justify-content: center;
 align-items: center;
-border: 3px solid #720307;
 border-radius: 8px;
 position: relative;
 }
 
 nav a {
     text-decoration: none;
+    color: #470e14;
+}
+
+nav span {
+    color: #470e14;
 }
