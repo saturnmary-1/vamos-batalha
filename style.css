@@ -1,7 +1,13 @@
 body{
     margin:0;
     padding: 0;
-    background-color: #fd9bb7;
+    background:repeating-linear-gradient(
+        to right,
+        #fd9bb7 0px,
+        #fd9bb7 30px,
+        #9d182b 30px,
+        #9d182b 60px
+    );
     min-height: 100vh;
 }
 
@@ -16,35 +22,6 @@ justify-content: center;
 align-items: center;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 8px;
-    margin-top: 5px;
-}
-
-nav a { 
-    display:inline-block;
-    padding: 6px 10px;
-    color:#690d0e;
+nav a {
     text-decoration: none;
-
-    text-align: center;
-
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 14px;
-
-    border:1px solid transparent;
-    border-radius: 20px;
-    transition: 0.2s;
 }
-
-/*MOUSE*/
-
-nav a:hover {
-    background-color:#3f070b;
-    transform: rotate(-2deg);
-    text-decoration:underline;
-}
- 
