@@ -61,6 +61,7 @@ main {
     justify-content: center;
     align-items: center;
     min-height: 80vh;
+    margin-top: -25px;
 }
 
 .caixa {
